@@ -1,0 +1,3 @@
+201|Ram Thapa|1|Hospital|0
+202|Suman Rai|1|Hospital|0
+203|Bikash Gurung|1|Hospital|0

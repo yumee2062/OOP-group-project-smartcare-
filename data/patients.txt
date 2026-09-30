@@ -1,0 +1,7 @@
+1001|Ram Kumar Khadka|56|9870003|67|78|170|Sugar|2|1|1|1|104|9
+1002|Kumari Pokhrel|45|9860005|65|87|170|Cancer|2|0|0|0|0|0
+1003|Ajay Limbu|34|9870001|56|66|245|Accident|2|0|0|0|0|0
+1004|Pritika Bogati|18|98730-0|78|87|120|fever|2|0|0|0|0|0
+1005|Lokesh Bhat|1|9900000|0|0|0|Presumed Dead|4|1|1|0|102|1
+1006|LOkesh BHat|99|98099999|404|101|401|halka ghari ghari baulauxa kina ho taha xaina|3|1|1|0|102|4
+1007|Elon Musk |36|9789765427|125|91|180|Heart Attack|3|1|1|0|101|5

@@ -1,0 +1,14 @@
+1|ICU|1|1005
+2|ICU|0|0
+3|ICU|0|0
+4|Emergency|1|1006
+5|Emergency|1|1007
+6|Emergency|0|0
+7|Emergency|0|0
+8|Emergency|0|0
+9|General|0|0
+10|General|0|0
+11|General|0|0
+12|General|0|0
+13|General|0|0
+14|General|0|0

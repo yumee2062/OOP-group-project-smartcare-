@@ -1,0 +1,5 @@
+1|Paracetamol|199|50|5
+2|Antibiotic|100|25|35
+3|Saline|80|20|100
+4|Pain Relief Injection|58|15|150
+5|Emergency Cardiac Drug|29|10|500

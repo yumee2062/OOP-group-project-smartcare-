@@ -1,0 +1,5 @@
+101|Dr. Yumee Rai|27|9800000001|Cardiology|1|0|1
+102|Dr. Rohan Thapa|42|9800000002|Emergency Medicine|1|0|2
+103|Dr. Sita Rai|36|9800000003|Neurology|1|0|0
+104|Dr. Kiran Gurung|45|9800000004|General Medicine|1|0|1
+105|Dr. Priya KC|39|9800000005|Trauma Surgery|1|0|0
